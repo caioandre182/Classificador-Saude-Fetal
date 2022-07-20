@@ -37,6 +37,10 @@
 	O app para prever a classificação dos exames, se encontra <a href='https://classificador-saude-fetal.herokuapp.com/'>Aqui</a>	
 </p>
 
+<p>
+	A parte exploratória dos dados e a construção do modelo podem ser encontradas nesse <a href='https://github.com/caioandre182/Classificador-Saude-Fetal/blob/main/Classifica%C3%A7%C3%A3o%20de%20Sa%C3%BAde%20Fetal.ipynb'>notebook</a>
+</p>
+
 ---------------------------------------------------------------------------------------		
 		
 ## Ajuda
