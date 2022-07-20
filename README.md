@@ -1,7 +1,14 @@
-# Título do projeto
-
-Um simples resumo do uso/propósito do projeto.
-
+# Classificação de Saúde Fetal
+<p>
+Esse projeto tem como objetivo, prever os três possíveis resultados de um exame de cardiotocografia:
+	<ul>
+		<li>1 - Normal</li>
+		<li>2 - Suspeito</li>
+		<li>3 - Patológico</li>
+	<ul>
+</p>
+		
+---------------------------------------------------------------------------------------
 ## Descrição do projeto
 
 Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
