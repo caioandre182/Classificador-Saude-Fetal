@@ -1,12 +1,13 @@
 # Classificação de Saúde Fetal
-	<p>
+---------------------------------------------------------------------------------------
+<p>
 	Esse projeto tem como objetivo, prever os três possíveis resultados de um exame de cardiotocografia:
-		<ul>
-			<li>1 - Normal</li>
-			<li>2 - Suspeito</li>
-			<li>3 - Patológico</li>
-		<ul>
-	</p>
+	<ul>
+		<li>1 - Normal</li>
+		<li>2 - Suspeito</li>
+		<li>3 - Patológico</li>
+	<ul>
+</p>
 		
 ---------------------------------------------------------------------------------------
 ## Descrição do projeto
