@@ -11,59 +11,49 @@ Esse projeto tem como objetivo, prever os três possíveis resultados de um exam
 ---------------------------------------------------------------------------------------
 ## Descrição do projeto
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
-
+<p>
+	Taxa de Mortalidade Infantil é um indicador chave para o progresso humano, e os países que mais sofrem com índices elevados de TMI, são os mais pobres. Muitas das mortes que ocorrem podem ser evitadas, afim de melhorar esses números, podemos correr para o uso de equipamentos de baixo custos, que são os Exames de Cardiotografia, a ideia desse projeto é auxiliar a equipe médica, prevendo o bem-estar do feto e mãe, com base nos dados adquiridos pelo exame.
+</p>
+		
+---------------------------------------------------------------------------------------		
 ## Utilização
 
 ### Dependencias
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
-
-### Instalação
-
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
-
+```python:
+	matplotlib==3.5.2
+	numpy==1.21.5
+	pandas==1.4.3
+	scikit_learn==1.1.1
+	seaborn==0.11.2
+	streamlit==1.11.0
+	yellowbrick==1.4
+```
 ### Executando o projeto
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
+<p>
+	O app para prever a classificação dos exames, se encontra <a href='https://classificador-saude-fetal.herokuapp.com/'>Aqui</a>	
+</p>
 
+---------------------------------------------------------------------------------------		
+		
 ## Ajuda
 
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
-
+<p>
+	Afim de melhorar o processo de classificação, é necessário inserir o exame com todas as informações em formato csv ou excel. Já que são 21 indicadores. Para testar deixei um tabela com exames, nesse <a href='https://github.com/caioandre182/Classificador-Saude-Fetal/blob/main/exames.csv'>Link</a>
+</p>
+	
+---------------------------------------------------------------------------------------		
 ## Autores
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
+<code>Caio André</code>
 
+---------------------------------------------------------------------------------------		
 ## Histórico de versões.
 
-* 0.2
-	* Ajustes de diversos bugs e otimização
 * 0.1
     * Primeira versão
 
-## Licença de uso
 
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
-
-## Fontes de inspiração
-
-Inspiração, trechos de códigos utilizados, etc.
-* [readme-template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
