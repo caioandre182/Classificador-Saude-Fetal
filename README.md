@@ -1,4 +1,13 @@
 # Classificação de Saúde Fetal
+	
+---------------------------------------------------------------------------------------
+## Descrição do projeto
+
+<p>
+	Taxa de Mortalidade Infantil é um indicador chave para o progresso humano, e os países que mais sofrem com índices elevados de TMI, são os mais pobres. Muitas das mortes que ocorrem podem ser evitadas, afim de melhorar esses números, podemos correr para o uso de equipamentos de baixo custos, que são os Exames de Cardiotografia, a ideia desse projeto é auxiliar a equipe médica, prevendo o bem-estar do feto e mãe, com base nos dados adquiridos pelo exame.
+</p>
+
+---------------------------------------------------------------------------------------
 
 ## Objetivo
 <p>
@@ -9,14 +18,7 @@
 		<li>3 - Patológico</li>
 	<ul>
 </p>
-		
----------------------------------------------------------------------------------------
-## Descrição do projeto
-
-<p>
-	Taxa de Mortalidade Infantil é um indicador chave para o progresso humano, e os países que mais sofrem com índices elevados de TMI, são os mais pobres. Muitas das mortes que ocorrem podem ser evitadas, afim de melhorar esses números, podemos correr para o uso de equipamentos de baixo custos, que são os Exames de Cardiotografia, a ideia desse projeto é auxiliar a equipe médica, prevendo o bem-estar do feto e mãe, com base nos dados adquiridos pelo exame.
-</p>
-		
+	
 ---------------------------------------------------------------------------------------		
 ## Utilização
 
