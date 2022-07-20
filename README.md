@@ -50,9 +50,7 @@
 </p>
 	
 ---------------------------------------------------------------------------------------		
-## Autores
-
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
+## Autor
 
 <code>Caio André</code>
 
