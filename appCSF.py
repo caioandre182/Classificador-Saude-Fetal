@@ -59,7 +59,7 @@ if app_mode == "Home":
     st.write("Esse dado é um aspecto de fundalmental importância para avaliar a qualidade de vida, por meio dele, é possível obter informações sobre a eficácia dos serviços públicos, tais como: saneamento básico, sistema de saúde, disponibilidade de remédios e vacinas, acompanhamento médico, educação, maternidade, alimentação adequda, entre outros.")
     st.write("Como é de se esperar as regiões mais atingidas pela mortalidade infantil são as com menor poder financeiro. A falta de assistência e de orientação às grávidas e a deficiência na assistência hospital aos recém-nascidos são um dos principais motivos.")
 
-    st.image('img\Infant_Mortality_Rate_World_map.png', caption="Taxa de Mortalidade Infantil Mundial")
+    st.image('Infant_Mortality_Rate_World_map.png', caption="Taxa de Mortalidade Infantil Mundial")
 
     st.markdown("-----------------------------------------------------------------------------")
     #Objetivo
@@ -77,7 +77,7 @@ if app_mode == "Prediction":
         st.write('')
 
     with col2:
-        st.image("img\prediction.png")
+        st.image("prediction.png")
 
     with col3:
         st.write('')
